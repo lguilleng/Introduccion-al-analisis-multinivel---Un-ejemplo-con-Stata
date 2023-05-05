@@ -357,7 +357,8 @@ qnorm resid_std
 
 ```
 
-![https://miro.medium.com/v2/resize:fit:542/0*94QR1Yj5IDH_pSkk.jpeg](Aspose.Words.4e048b0a-109a-4463-bbcf-43dae74e96f7.005.jpeg)
+![]
+(https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/revision%20rapida%20de%20los%20residuos.jpeg)
 
 ## **Referencias**
 

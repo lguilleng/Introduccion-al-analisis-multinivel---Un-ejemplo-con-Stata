@@ -2,7 +2,7 @@
 ## **Un ejemplo con Stata**
 
 ![](
-https://github.com/lguilleng/Introduccion-al-analisis-multinivel---Un-ejemplo-con-Stata/blob/main/grafico_1.png)
+https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/grafico%20introduccion.png)
 
 ## **Introducción**
 

@@ -340,7 +340,7 @@ twoway connected yhat_fit x1 if escuela<=10, connect(L)
 ```
 
 ![](
-https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/grafico%20de%20los%20modelos%20estimados%20para%20cada%20escuela.jpeg)
+https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/grafico%20de%20los%20modelos%20estimados%20para%20cada%20escuela.jpeg))
 
 ### **Residuos en base al modelo estimado**
 

@@ -81,8 +81,7 @@ drop inter-yhat_ols65
 quietly erase ols.dta
 ```
 
-![]
-(https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/comportamiento%20de%20los%20puntajes%20en%20funcion%20a%20la%20condicion%20de%20ser%20femenino.jpeg)
+![](https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/comportamiento%20de%20los%20puntajes%20en%20funcion%20a%20la%20condicion%20de%20ser%20femenino.jpeg)
 
 El gráfico nos muestra la recta de regresión para puntaje (y) en función de la condición de ser femenino (x1), para cada grupo de estudiantes de una escuela.
 
@@ -338,8 +337,7 @@ predict yhat_fit, fitted
 twoway connected yhat_fit x1 if escuela<=10, connect(L)
 ```
 
-![](
-https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/grafico%20de%20los%20modelos%20estimados%20para%20cada%20escuela.jpeg))
+![](https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/grafico%20de%20los%20modelos%20estimados%20para%20cada%20escuela.jpeg))
 
 ### **Residuos en base al modelo estimado**
 
@@ -356,8 +354,7 @@ qnorm resid_std
 
 ```
 
-![]
-(https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/revision%20rapida%20de%20los%20residuos.jpeg)
+![](https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/revision%20rapida%20de%20los%20residuos.jpeg)
 
 ## **Referencias**
 

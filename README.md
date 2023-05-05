@@ -82,7 +82,8 @@ drop inter-yhat_ols65
 quietly erase ols.dta
 ```
 
-![https://miro.medium.com/v2/resize:fit:551/0*g69rFjTlewpmJEge.jpeg](Aspose.Words.4e048b0a-109a-4463-bbcf-43dae74e96f7.003.jpeg)
+![]
+(https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/comportamiento%20de%20los%20puntajes%20en%20funcion%20a%20la%20condicion%20de%20ser%20femenino.jpeg)
 
 El gráfico nos muestra la recta de regresión para puntaje (y) en función de la condición de ser femenino (x1), para cada grupo de estudiantes de una escuela.
 

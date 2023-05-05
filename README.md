@@ -1,7 +1,8 @@
 # **Introducción al Análisis Multinivel**
 ## **Un ejemplo con Stata**
 
-![https://miro.medium.com/v2/resize:fit:424/0*zsSXBzv65j9x0jZH.png](Aspose.Words.4e048b0a-109a-4463-bbcf-43dae74e96f7.001.png)
+![](
+https://github.com/lguilleng/Introduccion-al-analisis-multinivel---Un-ejemplo-con-Stata/blob/main/grafico_1.png)
 
 ## **Introducción**
 

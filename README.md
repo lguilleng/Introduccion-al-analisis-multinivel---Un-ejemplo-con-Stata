@@ -1,8 +1,8 @@
 # **Introducción al Análisis Multinivel**
 ## **Un ejemplo con Stata**
 
-[![](
-https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/grafico%20introduccion.png)]
+![](
+https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/grafico%20introduccion.png)
 
 ## **Introducción**
 
@@ -55,8 +55,7 @@ Sorted by: escuela  estudiante
 bysort escuela: egen y_mean=mean(y)
 twoway scatter y escuela, msize(tiny) || connected y_mean escuela, connect(L) clwidth(thick) clcolor(black) mcolor(black) msymbol(none) || , ytitle(y)
 ```
-[![]
-(https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/comportamiento%20del%20puntaje%20individual%20y%20promedio%20por%20escuela.jpeg)]
+![](https://github.com/lguilleng/Introduccion-al-analisis-multinivel-Un-ejemplo-con-Stata/blob/main/graficos/comportamiento%20del%20puntaje%20individual%20y%20promedio%20por%20escuela.jpeg)
 
 Se puede observar que, los puntajes a nivel de escuela muestran una variabilidad considerable. Además, los puntajes entre escuelas también muestran variabilidad.
 
